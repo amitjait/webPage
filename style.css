@@ -1,0 +1,69 @@
+.header-img{
+    background-image: url("./images/image2.jpg");
+    height: 50vh;
+    background-size: contain;
+    padding-top: 8rem;
+    background-attachment: fixed;
+}
+.card-container{
+    width: 70vw;
+    margin: 0px auto;
+    padding: 1rem;
+}
+#h-1{
+    width: 48%;
+    margin: 0px auto;
+}
+.cards{
+    margin: 0px auto;
+}
+.mid-img{
+    background-image: url("./images/laptop-img.jpg");
+    height: 90vh;
+    background-size: cover;
+    padding-top: 15%;
+    color: white;
+    background-attachment: fixed;
+}
+.lap-para{
+    margin-top: 0px auto;
+    padding: 3rem 5rem 3rem 10rem;
+    font-size: 15px;
+    text-align: left;
+}
+#lap-btn{
+    width: 15rem;
+    border: none;
+    font-size: 10px;
+    height: 2rem;
+}
+.logoHead{
+    display: flex;
+    align-items: center;
+    
+}
+.icn-clr{
+    color: lightseagreen;
+    padding-right: 0.5rem;
+}
+.cont-mid{
+    padding: 5rem;
+    width: 80%;
+    margin: 0px auto;
+}
+
+.logo-para{
+    font-size: 12px;
+}
+.mid-2{
+    display: flex;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 0px auto;
+    width: 60%;
+}
+.in-div{
+    width: 25rem;
+    margin-left: 3rem;
+    color: white;
+}
