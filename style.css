@@ -67,3 +67,49 @@
     margin-left: 3rem;
     color: white;
 }
+@media (max-width: 768px){
+    .mid-2{
+        display: flex;
+        flex-direction: column;
+    }
+}
+.foot-h{
+    margin: 0px auto;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    padding: 4rem 4rem 2rem 4rem;
+}
+.foot-div{
+    margin: 0px auto;
+    width: 50%;
+    margin-bottom: 4rem;
+}
+.foot-btn{
+    background-color:#DC3545;
+    color: white;
+    border: none;
+    font-size: 10px;
+    margin-left: 0.3rem;
+}
+.s-logo{
+    margin: 0px auto;
+    width: 10%;
+    padding-bottom: 4rem;
+}
+.s-logo:hover{
+    cursor: pointer;
+}
+#f-icn{
+    color: darkblue;
+    size:rem;
+}
+#t-icn{
+    color: skyblue;
+}
+#in-icn{
+    color: blue;
+}
+#yt-icn{
+    color: red;
+}
